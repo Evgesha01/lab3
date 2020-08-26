@@ -1,0 +1,6 @@
+﻿  func.cpp
+C:\Users\Евгений\Desktop\l3\lab3\lab4\func.cpp(56,23): warning C4244:  =: преобразование "std::streamoff" в "int", возможна потеря данных
+  lab4.cpp
+  Создание кода...
+C:\Users\Евгений\Desktop\l3\lab3\lab4\func.cpp(121,23): warning C4244:  =: преобразование "std::streamoff" в "int", возможна потеря данных
+  lab4.vcxproj -> C:\Users\Евгений\Desktop\l3\lab3\Debug\lab4.exe
